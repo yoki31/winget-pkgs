@@ -1,0 +1,17 @@
+PackageIdentifier: Eugeny.Tabby
+PackageVersion: 1.0.139
+PackageLocale: en-US
+Publisher: Eugene Pankov
+Author: Eugene Pankov
+PackageName: Terminus
+PackageUrl: https://eugeny.github.io/terminus/
+License: MIT License
+LicenseUrl: https://github.com/Eugeny/Tabby/blob/master/LICENSE
+ShortDescription: A terminal for a more modern age.
+Moniker: tabby
+Tags:
+- command-line
+- console
+- terminal
+ManifestType: defaultLocale
+ManifestVersion: 1.1.0
